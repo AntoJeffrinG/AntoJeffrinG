@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **AntoJeffrinG/AntoJeffrinG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Anto+Jeffrin+G;An+undergraduate+student+in+AI+ML&size=24&width=500&height=60&font=Dancing+Script&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
