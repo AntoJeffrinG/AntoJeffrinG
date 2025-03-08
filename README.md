@@ -1,18 +1,18 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=150&font=Dancing+Script&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=150&font=Dancing+Script&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=150&font=Dancing+Script&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=200&font=Dancing+Script&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=200&font=Dancing+Script&color=000000&background=FFFFFF&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Anto+Jeffrin+G;🎓+An+undergraduate+student+in+AI+ML+💡+🤖&size=50&width=1000&height=200&font=Dancing+Script&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&duration=4000&pause=2000&repeat=true" />
 </picture>
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoJeffrinG&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;text_style=Dancing+Script&amp;layout=compact" 
-       alt="Top Languages" style="width: 32%; height: 200px; object-fit: cover;" />
+       alt="Top Languages" style="flex-basis: 32%; height: 200px; object-fit: cover; min-width: 0;" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=AntoJeffrinG&amp;show_icons=true&amp;locale=en&amp;bg_color=0d1117&amp;text_color=ffffff&amp;repo=convoychat" 
-       alt="GitHub Stats" style="width: 32%; height: 200px; object-fit: cover;" />
+       alt="GitHub Stats" style="flex-basis: 32%; height: 200px; object-fit: cover; min-width: 0;" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntoJeffrinG&amp;theme=dark&amp;background=0d1117&amp;date_format=M%20j%5B%2C%20Y%5D" 
-       alt="GitHub Streak" style="width: 32%; height: 200px; object-fit: cover;" />
+       alt="GitHub Streak" style="flex-basis: 32%; height: 200px; object-fit: cover; min-width: 0;" />
   
 </div>
 <picture>
